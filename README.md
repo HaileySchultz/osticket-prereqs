@@ -387,4 +387,4 @@ At this stage, osTicket is fully installed and operational within the Windows 10
 
 With the application running, required dependencies installed, and core services functioning, this concludes the **Prerequisites and Installation** phase.
 
-➡️ Continue to [osTicket: Post-Installation Configuration](https://github.com/kylekincaid/post-install-config) to secure the deployment and prepare it for real-world use.
+➡️ Continue to [osTicket: Post-Installation Configuration](https://github.com/HaileySchultz/post-install-config) to secure the deployment and prepare it for real-world use.
